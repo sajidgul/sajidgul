@@ -21,6 +21,19 @@ Stats
     </td>
   </tr>
 </table>
-Let's Set Sail
 ---
-- [LinkedIn](https://www.linkedin.com/in/sajid-gul/)
+### Connect with Me
+<p align="center">
+  <a href=">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
+  </a>
+  <a href="https://www.linkedin.com/in/sajid-gul/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+  </a>
+  <a href="wa.me/+923038928928">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green">
+  </a>
+</p>
+X (formerly Twitter)X (formerly Twitter)
+Sajid Gul:spider_web: () on X
+":rocket: Laravel Enthusiast | :computer: PHP Developer | :globe_with_meridians: Web Dev Explorer | Sharing tips & tricks for mastering #Laravel and all things #PHP. Let's code together!"
