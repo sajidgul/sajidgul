@@ -30,7 +30,7 @@ Stats
   <a href="https://www.linkedin.com/in/sajid-gul/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
   </a>
-  <a href="wa.me/+923038928928">
+  <a href="wa.me/923038928928">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green">
   </a>
 </p>
