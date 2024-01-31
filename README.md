@@ -1,10 +1,10 @@
 <h1 align="center">Ahoy, fellow code adventurers! 🏴‍☠️</h1>
 I'm Sajid, an interstellar coder on a mission to turn caffeine into code.
-Projects
+Projects <br>
 ---
-Skills
+Skills <br>
 ---
-Stats
+Stats <br>
 ---
 <table align="center" align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
