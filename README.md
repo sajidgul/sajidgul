@@ -21,11 +21,11 @@ Stats
     </td>
   </tr>
 </table>
----
+--- <br>
 ### Connect with Me
 <p align="center">
   <a href="">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/Sajid?style=social">
   </a>
   <a href="https://www.linkedin.com/in/sajid-gul/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
