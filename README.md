@@ -1,6 +1,6 @@
 <h1 align="center">Ahoy, fellow code adventurers! 🏴‍☠️</h1>
 I'm Sajid, an interstellar coder on a mission to turn caffeine into code. <br>
-Projects
+Projects 
 --- <br>
 Skills
 --- <br>
