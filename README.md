@@ -4,7 +4,7 @@ Projects
 --- <br>
 Skills
 --- <br>
-Stats
+Statistics
 ---
 <table align="center" align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
