@@ -74,7 +74,7 @@
 
 ## ⚙️ Analytics
 
-<p align="center">
+<p align="center" style="margin:auto">
 <a href="https://github.com/sajidgul">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajidgul&theme=algolia" width="70%" >
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=8&theme=algolia" width="60%"/>
