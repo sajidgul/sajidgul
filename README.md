@@ -1,9 +1,5 @@
-<h1 align="center">Ahoy, fellow code adventurers! 🏴‍☠️</h1>
+<h1 align="center">Ahoy, fellow code adventurers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
 I'm Sajid, an interstellar coder on a mission to turn caffeine into code. <br>
-<h1 align="center">
-  Hola!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
-</h1>
 <p align='center'>
   
 - 📚 Currently, I'm immersed in the world of Full-stack development, with a focus on **Nest.js** & **AWS**.
