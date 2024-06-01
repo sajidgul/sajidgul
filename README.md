@@ -79,6 +79,6 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajidgul&theme=algolia" width="70%">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=8&theme=algolia" width="35%" height=""/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="35%"   
-    height=""/> 
+    height="150em"/> 
 </a>
 
