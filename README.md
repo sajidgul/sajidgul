@@ -76,10 +76,8 @@
 
 <p align="center" style="margin:auto">
 <a href="https://github.com/sajidgul">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajidgul&theme=algolia" width="70%" >
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=8&theme=algolia" width="60%"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="50%"/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia" width="48%" align="right">
-  <img height="180em" width="70%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=6&theme=algolia"/> 
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajidgul&theme=algolia" width="70%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=8&theme=algolia" width="60%" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="50%"/> 
 </a>
 
