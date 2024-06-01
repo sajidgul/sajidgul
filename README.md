@@ -78,8 +78,8 @@
 <a href="https://github.com/sajidgul">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajidgul&theme=algolia" width="70%" >
   <img  width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia" width="48%" align="right">
-<!-- <img  width="50%" height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=6&theme=algolia"/> -->
+<!--   <img  src="https://github-readme-stats.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia" width="48%" align="right"> -->
+<img  width="50%" height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=6&theme=algolia"/>
 </a>
 </p>
 <!-- <p align="center" margin="auto">
