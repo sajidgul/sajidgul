@@ -76,28 +76,14 @@
 
 <p align="center">
 <a href="https://github.com/sajidgul">
-  <img  width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajidgul&theme=algolia" width="70%" >
+  <img  width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia" width="48%" align="right">
 <!-- <img  width="50%" height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=6&theme=algolia"/> -->
 </a>
 </p>
 <!-- <p align="center" margin="auto">
   <img height="180em" width="70%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=6&theme=algolia"/>
 </p> -->
-  <img  src="https://github-readme-stats.vercel.app/api?username=sajidgul&show_icons=true&theme=algolia" width="48%" align="right" >
 <!--  <img height="180em" width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidgul&layout=compact&langs_count=8&theme=algolia"/> -->
 
-
- <be>
-### Connect with Me
-<p align="center">
-  <a href="">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/Sajid?style=social">
-  </a>
-  <a href="https://www.linkedin.com/in/sajid-gul/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
-  </a>
-  <a href="wa.me/923038928928">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green">
-  </a>
-</p>
