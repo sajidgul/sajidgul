@@ -13,20 +13,6 @@
 ## 🛠 My Stack
 
 <h3 align="center">
-  Backend
-</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-NestJS*-E0234E?logo=nestjs&logoColor=white" alt="" />
-
-<h3 align="center">
   Frontend
 </h3>
 
@@ -50,6 +36,12 @@
   <img src="https://img.shields.io/badge/-Zustand-purple?logo=zustand" alt="" />
 </p>
 
+<h3 align="center">
+  Backend
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="" />
 </p>
 
 <h3 align="center">
