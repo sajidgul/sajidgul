@@ -28,12 +28,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?&logo=javascript" alt="" />
-  <img src="https://img.shields.io/badge/-TypeScript-lightgray?logo=typescript" alt="" />
-  <img src="https://img.shields.io/badge/-React-gray?logo=react" alt="" />
-  <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js" alt="" />
-  <img src="https://img.shields.io/badge/-Redux%20-%23593d88.svg?logo=redux&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/-Zustand-purple?logo=zustand" alt="" />
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
 </p>
 
 <h3 align="center">
@@ -49,15 +45,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Unit%20Testing-8A2BE2" alt="" />
-  <img src="https://img.shields.io/badge/-Jest-%23C21325?flat&logo=jest&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/-Cypress-%23E33332?flat&logo=cypress&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/-GraphQL-pink?logo=graphql" alt="" />
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker" alt="" />
+<img src="https://img.shields.io/badge/-Unit%20Testing-8A2BE2" alt="" />
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker" alt="" />
 <img src="https://img.shields.io/badge/-AWS*-232F3E?logo=amazon-aws&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="" />
 </p>
 
 <p align="center"> 
