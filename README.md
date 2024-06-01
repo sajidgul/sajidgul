@@ -1,9 +1,12 @@
 <h1 align="center">Ahoy, fellow code adventurers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
 <p align='center'>
 - I'm Sajid, an interstellar coder on a mission to turn caffeine into code.
+
 - 📚 Currently, I'm immersed in the world of Full-stack development, with a focus on **Laravel + Vue** & **AWS**.
+
 - 🤝 I'm open to collaboration with fellow developers on exciting projects involving **Laravel, Vue.js**, and more.
-- 📫 If you'd like to get in touch, you can reach me at **sajidkp028@gmail.com** 
+
+- 📫 If you'd like to get in touch, you can reach me at **sajidkp028@gmail.com**
 </p>
 
 ## 🛠 My Stack
