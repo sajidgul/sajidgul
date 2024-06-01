@@ -72,8 +72,8 @@ I'm Sajid, an interstellar coder on a mission to turn caffeine into code. <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Unit%20Testing-8A2BE2" alt="" />
-<!--   <img src="https://img.shields.io/badge/-Jest-%23C21325?flat&logo=jest&logoColor=white" alt="" /> -->
-<!--   <img src="https://img.shields.io/badge/-Cypress-%23E33332?flat&logo=cypress&logoColor=white" alt="" /> -->
+  <img src="https://img.shields.io/badge/-Jest-%23C21325?flat&logo=jest&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/-Cypress-%23E33332?flat&logo=cypress&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/-GraphQL-pink?logo=graphql" alt="" />
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker" alt="" />
 <img src="https://img.shields.io/badge/-AWS*-232F3E?logo=amazon-aws&logoColor=white" alt="" />
