@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&logoColor=white" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python*&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-Python*-3776AB?logo=python&logoColor=white" alt="Python" />
 </p>
 
 <h3 align="center">
