@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white" alt="Jira" />
 <img src="https://img.shields.io/badge/-Unit%20Testing-8A2BE2" alt="" />
-<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker" alt="" />
+<img src="https://img.shields.io/badge/-Docker*-05122A?style=flat&logo=Docker" alt="" />
 <img src="https://img.shields.io/badge/-AWS*-232F3E?logo=amazon-aws&logoColor=white" alt="" />
 </p>
 
