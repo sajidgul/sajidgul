@@ -13,53 +13,68 @@
 ## 🛠 My Stack
 
 <h3 align="center">
-  Frontend
+  Programming Languages
 </h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+</p>
 
+<h3 align="center">
+  Libraries
+</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
+    <img src="https://img.shields.io/badge/-AJAX-0055FF?logo=ajax&logoColor=white" alt="AJAX" />
+</p>
+
+<h3 align="center">
+  Frameworks
+</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/-Inertia.js-646CFF?logo=inertia&logoColor=white" alt="Inertia.js" />
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
+</p>
+
+<h3 align="center">
+  Tools
+</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/-Unit%20Testing-8A2BE2" alt="Unit Testing" />
+</p>
+
+<h3 align="center">
+  Platforms
+</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Docker*-05122A?style=flat&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/-AWS*-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+<h3 align="center">
+  Databases
+</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+
+<h3 align="center">
+  Frontend Technologies
+</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/-Sass-pink?logo=sass" alt="" />
-    <img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap" alt="" />
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss" alt="" />
-    <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="" />
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?&logo=javascript" alt="" />
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-Inertia.js-646CFF?logo=inertia&logoColor=white" alt="Inertia.js" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-AJAX-0055FF?logo=ajax&logoColor=white" alt="AJAX" />
-</p>
-
-<h3 align="center">
-  Backend
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="" />
-</p>
-
-<h3 align="center">
-  Additional Skills
-</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white" alt="Jira" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Unit%20Testing-8A2BE2" alt="" />
-  <img src="https://img.shields.io/badge/-Docker*-05122A?style=flat&logo=Docker" alt="" />
-  <img src="https://img.shields.io/badge/-AWS*-232F3E?logo=amazon-aws&logoColor=white" alt="" />
+    <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" alt="Sass" />
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
 <p align="center"> 
