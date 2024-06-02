@@ -17,12 +17,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Sass-pink?logo=sass" alt="" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-Sass-pink?logo=sass" alt="" />
     <img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap" alt="" />
-   <img src="https://img.shields.io/badge/-Material%20UI-blue?logo=mui" alt="" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss" alt="" />
-  <img src="https://img.shields.io/badge/-Ant%20Design-green?logo=antdesign" alt="" />
-<img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="" />
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss" alt="" />
+    <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="" />
 </p>
 
 
@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/-JavaScript-05122A?&logo=javascript" alt="" />
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/-Inertia.js-646CFF?logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-AJAX-0055FF?logo=ajax&logoColor=white" alt="AJAX" />
 </p>
 
 <h3 align="center">
