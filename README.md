@@ -31,12 +31,11 @@
 </p>
 
 <h3 align="center">
-  Libraries
+  Databases
 </h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
-    <img src="https://img.shields.io/badge/-AJAX-0055FF?logo=ajax&logoColor=white" alt="AJAX" />
-    <img src="https://img.shields.io/badge/-Inertia.js-646CFF?logo=inertia&logoColor=white" alt="Inertia.js" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
 <h3 align="center">
@@ -52,11 +51,12 @@
 </p>
 
 <h3 align="center">
-  Databases
+  Libraries
 </h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" />
+    <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
+    <img src="https://img.shields.io/badge/-AJAX-0055FF?logo=ajax&logoColor=white" alt="AJAX" />
+    <img src="https://img.shields.io/badge/-Inertia.js-646CFF?logo=inertia&logoColor=white" alt="Inertia.js" />
 </p>
 
 <h3 align="center">
