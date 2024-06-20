@@ -58,6 +58,7 @@
     <img src="https://img.shields.io/badge/-AJAX-0055FF?logo=ajax&logoColor=white" alt="AJAX" />
     <img src="https://img.shields.io/badge/-Inertia.js-646CFF?logo=inertia&logoColor=white" alt="Inertia.js" />
     <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white" alt="Numpy" />
 </p>
 
 <h3 align="center">
