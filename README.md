@@ -59,7 +59,9 @@
     <img src="https://img.shields.io/badge/-Inertia.js-646CFF?logo=inertia&logoColor=white" alt="Inertia.js" />
     <img src="https://img.shields.io/badge/-Pandas*-150458?logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/-Numpy*-013243?logo=numpy&logoColor=white" alt="Numpy" />
-   <img src="https://img.shields.io/badge/-Matplotlib*-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/-Matplotlib*-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
+   <img src="https://img.shields.io/badge/-scikit--learn*-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+   <img src="https://img.shields.io/badge/-TensorFlow*-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
 <h3 align="center">
