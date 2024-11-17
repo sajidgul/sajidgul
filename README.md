@@ -8,7 +8,7 @@
 - 🤝 I'm open to collaboration with fellow developers on exciting projects involving **Laravel, Vue.js**, and more.
 
 - 📫 If you'd like to get in touch, you can reach me at **sajidkp028@gmail.com**
-</p> 
+</p>
 
 ## 🛠 My Stack 
 
