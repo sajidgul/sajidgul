@@ -10,7 +10,7 @@
 - 📫 If you'd like to get in touch, you can reach me at **sajidkp028@gmail.com**
 </p>
 
-## 🛠 My Stack 
+## 🛠 My Stack
 
 <h3 align="center">
   Programming Languages
