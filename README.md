@@ -1,5 +1,5 @@
 <h1 align="center">Hello, fellow code adventurers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
-<p align='center'> 
+<p align='center'>
   
 - I'm Sajid, an interstellar coder on a mission to turn caffeine into code. 
 
