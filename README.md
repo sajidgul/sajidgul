@@ -3,9 +3,9 @@
   
 - I'm Sajid, an interstellar coder on a mission to turn caffeine into code. 
 
-- 📚 Currently, I'm immersed in the world of Full-stack development, with a focus on **Laravel + Vue** & **AWS**.
+- 📚 Currently, I'm immersed in the world of Full-stack development, with a focus on Laravel + Vue, NestJS + Node.js, and AWS.
 
-- 🤝 I'm open to collaborating with fellow developers on exciting projects involving **Laravel, Vue.js**, and more.
+- 🤝 I'm open to collaborating with fellow developers on exciting projects involving Laravel, Vue.js, NestJS, Node.js, and more.
 
 - 📫 If you'd like to get in touch, you can reach me at **sajidkp028@gmail.com**
 </p>
