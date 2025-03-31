@@ -28,6 +28,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
 </p>
 
 <h3 align="center">
@@ -69,6 +70,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/-AWS*-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/-Docker*-05122A?style=flat&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
 <h3 align="center">
