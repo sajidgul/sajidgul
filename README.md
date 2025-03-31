@@ -18,8 +18,8 @@
 <p align="center">
     <img src="https://img.shields.io/badge/-Web%20Development-0D99FF?logo=google-chrome&logoColor=white" alt="Web Development" />
     <img src="https://img.shields.io/badge/-API%20Development-36A2EB?logo=postman&logoColor=white" alt="API Development" />
-    <img src="https://img.shields.io/badge/-Data%20Science-FF6F00?logo=python&logoColor=white" alt="Data Science" />
-    <img src="https://img.shields.io/badge/-Machine%20Learning-FFBB00?logo=tensorflow&logoColor=white" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/-Data%20Science*-FF6F00?logo=python&logoColor=white" alt="Data Science" />
+    <img src="https://img.shields.io/badge/-Machine%20Learning*-FFBB00?logo=tensorflow&logoColor=white" alt="Machine Learning" />
 </p>
 
 <h3 align="center">
