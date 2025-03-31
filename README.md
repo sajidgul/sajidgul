@@ -86,9 +86,13 @@
     <img src="https://img.shields.io/badge/Slack-8A2BE2?style=flat&labelColor=FFFFFF" alt="Slack" />
 </p>
 
-### Architectures
+<h3 align="center">
+  Architectures
+</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/-Microservices-15AABF?style=flat&logo=microstrategy&logoColor=white" alt="Microservices" />
 <img src="https://img.shields.io/badge/-Monolith-4B8BBE?style=flat&logo=laravel&logoColor=white" alt="Monolith" />
+</p>
 
 <p align="center"> 
 <sup>Badges marked with an asterisk ( * ) indicate technologies that are in the learning stage.</sup>
