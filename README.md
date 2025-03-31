@@ -72,6 +72,7 @@
     <img src="https://img.shields.io/badge/-AWS*-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/-Docker*-05122A?style=flat&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
 <h3 align="center">
