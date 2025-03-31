@@ -49,6 +49,7 @@
     <img src="https://img.shields.io/badge/-Tailwind%20CSS*-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" alt="Sass" />
     <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
+    <img src="https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=white" alt="Strapi" />
 </p>
 
 <h3 align="center">
