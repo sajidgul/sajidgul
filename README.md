@@ -3,7 +3,7 @@
   
 - I'm Sajid, an interstellar coder on a mission to turn caffeine into code. 
 
-- 📚 Currently, I'm immersed in the world of Full-stack development, with a focus on Laravel + Vue, NestJS + Node.js, and AWS.
+- 📚 Currently, I'm immersed in the world of Full-stack development, with a focus on Laravel + Vue, Node.js + NestJS, and AWS.
 
 - 🤝 I'm open to collaborating with fellow developers on exciting projects involving Laravel, Vue.js, NestJS, Node.js, and more.
 
