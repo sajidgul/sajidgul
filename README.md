@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-Machine%20Learning*-FFBB00?logo=tensorflow&logoColor=white" alt="Machine Learning" />
 </p>
 
-<h3 align="center"> 
+<h3 align="center">
   Programming Languages
 </h3>
 <p align="center">
